@@ -8,6 +8,8 @@
 
 Agar aap software engineer, remote worker, freelancer ya salaried professional hain aur abhi tak tax filing manuals ya portal ke crash hone ke intezar mein baithe hain, to aap bohot peeche hain. **`fbr-wala`** aik ultra-fast, local CLI engine hai jo aapki tax computation aur sab se mushkil **Wealth Statement Reconciliation** ko terminal ke andar chand seconds mein zero-error ke sath hal karta hai.
 
+![Process Flow](assets/process-flow.png)
+
 ## 🔥 Kyun Har Pakistani Tech Professional Ko Iski Zaroorat Hai?
 
 * ⚡ **Zero Legal Fees:** Kisi tax consultant ko PKR 5,000–15,000 dene ki koi zaroorat nahi. Local verified code aapka pura hisab khud karega.
